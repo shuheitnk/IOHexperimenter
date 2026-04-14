@@ -70,20 +70,15 @@ Jacob de Nobel, Furong Ye, Diederick Vermetten, Hao Wang, Carola Doerr and Thoma
 *IOHexperimenter: Benchmarking Platform for Iterative Optimization Heuristics*, arXiv e-prints:2111.04077, 2021.
 
 ```bibtex
-@ARTICLE{IOHexperimenter,
-  author = {Jacob de Nobel and
-               Furong Ye and
-               Diederick Vermetten and
-               Hao Wang and
-               Carola Doerr and
-               Thomas B{\"{a}}ck},
-  title = {{IOHexperimenter: Benchmarking Platform for Iterative Optimization Heuristics}},
-  journal = {arXiv e-prints:2111.04077},
-  archivePrefix = "arXiv",
-  eprint = {2111.04077},
-  year = 2021,
-  month = Nov,
-  keywords = {Computer Science - Neural and Evolutionary Computing},
-  url = {https://arxiv.org/abs/2111.04077}
+@ARTICLE{denobel2024IOHexperimenter,
+  author={de Nobel, Jacob and Ye, Furong and Vermetten, Diederick and Wang, Hao and Doerr, Carola and Bäck, Thomas},
+  journal={Evolutionary Computation}, 
+  title={IOHexperimenter: Benchmarking Platform for Iterative Optimization Heuristics}, 
+  year={2024},
+  volume={32},
+  number={3},
+  pages={205-210},
+  keywords={Iterative optimization heuristics;benchmarking;algorithm comparison},
+  doi={10.1162/evco_a_00342}
 }
 ```
